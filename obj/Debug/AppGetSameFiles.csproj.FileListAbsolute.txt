@@ -1,0 +1,10 @@
+C:\Users\HGMI2\Desktop\C#\Projects\AppGetSameFiles\bin\Debug\AppGetSameFiles.exe.config
+C:\Users\HGMI2\Desktop\C#\Projects\AppGetSameFiles\bin\Debug\AppGetSameFiles.exe
+C:\Users\HGMI2\Desktop\C#\Projects\AppGetSameFiles\bin\Debug\AppGetSameFiles.pdb
+C:\Users\HGMI2\Desktop\C#\Projects\AppGetSameFiles\obj\Debug\AppGetSameFiles.csprojAssemblyReference.cache
+C:\Users\HGMI2\Desktop\C#\Projects\AppGetSameFiles\obj\Debug\AppGetSameFiles.MainForm.resources
+C:\Users\HGMI2\Desktop\C#\Projects\AppGetSameFiles\obj\Debug\AppGetSameFiles.Properties.Resources.resources
+C:\Users\HGMI2\Desktop\C#\Projects\AppGetSameFiles\obj\Debug\AppGetSameFiles.csproj.GenerateResource.cache
+C:\Users\HGMI2\Desktop\C#\Projects\AppGetSameFiles\obj\Debug\AppGetSameFiles.csproj.CoreCompileInputs.cache
+C:\Users\HGMI2\Desktop\C#\Projects\AppGetSameFiles\obj\Debug\AppGetSameFiles.exe
+C:\Users\HGMI2\Desktop\C#\Projects\AppGetSameFiles\obj\Debug\AppGetSameFiles.pdb
